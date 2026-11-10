@@ -23,7 +23,7 @@ Aplikasi To-Do List yang dibuat menggunakan JavaScript, CSS, React + Vite
 
 ## Cara Menjalankan
 
-
+dapat di akses dengan mengunjungi https://projek-react-sage.vercel.app/
 
 ## Struktur File
 ```text
